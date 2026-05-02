@@ -1,6 +1,5 @@
 # Ice Portfolio
-
-Static portfolio website for Phetkla Chaiwattana, also known as Ice.
+my portfolio website Phetkla Chaiwattana, call me Ice.
 
 ## Pages
 
